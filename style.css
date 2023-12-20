@@ -1,0 +1,47 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif; 
+  background-image: linear-gradient(rgb(72, 6, 92),rgb(80, 49, 80));
+}
+
+.button{
+  border: 2px solid black;
+  width: 70px;
+  padding: 20px;
+  margin: 0 3px;
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.r{
+  margin: 10px 0;
+}
+.r input{
+  width: 300px;
+  font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.text-center{
+  text-align: center;
+  color: white;
+}
+
+.mx-auto{
+  margin: auto;
+}
+
+.flex{
+  display:flex;
+} 
+.flex-col{
+  flex-direction: column;
+}
+
+.items-center{
+  align-items: center;
+}
