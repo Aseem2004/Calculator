@@ -8,5 +8,11 @@
 <p>The calculator supports fundamental arithmetic operations, including addition, subtraction, multiplication, and division. Users can perform these operations seamlessly with the click of a button or by using their keyboard.</p>
   
 <li><b>Responsive Design:</b></li>
-The website is designed to be responsive, ensuring a consistent and user-friendly experience across various devices. Whether users are accessing the calculator on a desktop, tablet, or mobile phone, they can expect a seamless and visually appealing interface.
+<p>The website is designed to be responsive, ensuring a consistent and user-friendly experience across various devices. Whether users are accessing the calculator on a desktop, tablet, or mobile phone, they can expect a seamless and visually appealing interface.</p>
+
+<li><b>User-Friendly Interface:</b></li>
+<p>The interface is intuitive and user-friendly, making it easy for users to input numbers and perform calculations. Clear buttons and a straightforward layout contribute to a positive user experience.</p>
+
+<li><b>Dynamic Input Options:</b></li>
+<p>Users can input numbers and perform calculations not only by clicking on-screen buttons but also by using their keyboard. This dynamic input option adds to the convenience and flexibility of the calculator.</p>
 </ul>
