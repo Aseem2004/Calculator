@@ -16,6 +16,12 @@
 <li><b>Dynamic Input Options:</b></li>
 <p>Users can input numbers and perform calculations not only by clicking on-screen buttons but also by using their keyboard. This dynamic input option adds to the convenience and flexibility of the calculator.</p>
 
+<li><b>Aesthetically Pleasing Design:</b></li>
+<p>The design of the calculator is aesthetically pleasing, enhancing the overall user experience. The visual elements are thoughtfully crafted to create a clean and modern look.</p>
+
+<li><b>Accessible to All Users:</b></li>
+<p>The design and functionality of the calculator aim to be accessible to users of all levels. Whether someone is using a calculator for simple calculations or more complex mathematical tasks, the features are designed to cater to a broad audience.</p>
+
 <li><b>Clear Display:</b></li>
 <p>The calculator features a clear and visible display that shows both the input and output, ensuring that users can easily track their calculations.</p>
 
