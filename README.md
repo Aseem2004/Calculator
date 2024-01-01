@@ -15,4 +15,10 @@
 
 <li><b>Dynamic Input Options:</b></li>
 <p>Users can input numbers and perform calculations not only by clicking on-screen buttons but also by using their keyboard. This dynamic input option adds to the convenience and flexibility of the calculator.</p>
+
+<li><b>Clear Display:</b></li>
+<p>The calculator features a clear and visible display that shows both the input and output, ensuring that users can easily track their calculations.</p>
+
+<li><b>Efficient Memory Management:</b></li>
+<p>The memory functionality is designed to be efficient and effective. Users can store numbers in memory, recall them when needed, and seamlessly continue with their calculations.</p>
 </ul>
