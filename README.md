@@ -28,3 +28,14 @@
 <li><b>Efficient Memory Management:</b></li>
 <p>The memory functionality is designed to be efficient and effective. Users can store numbers in memory, recall them when needed, and seamlessly continue with their calculations.</p>
 </ul>
+
+
+<h2>How to Use</h2>
+<h3>1. Access the Website:</h3>
+<p>Visit the website using the following deployment link in your web browser.<pre><code>https://aseem2004.github.io/Calculator/</code></pre></p>
+
+<h3>2. Perform Calculations:</h3>
+<p>Use the on-screen buttons or your keyboard to input numbers and perform arithmetic operations.</p>
+
+<h3>3. Enjoy the Simplicity:</h3>
+<p>Experience the convenience of a straightforward and efficient calculator tool.</p>
