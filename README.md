@@ -46,3 +46,7 @@
 <li><strong>CSS:</strong> Styles the calculator for a visually appealing and user-friendly experience.</li>
 <li><strong>JavaScript:</strong> Enables the calculator's dynamic functionality.</li>
 </ul>
+
+<h2>Contributions</h2>
+<p>Contributions are welcome! If you have suggestions for improvements or find any issues, feel free to fork the repository and submit a pull request.</p>
+<p>Happy calculating! 🧮✨</p>
