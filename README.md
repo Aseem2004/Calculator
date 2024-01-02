@@ -39,3 +39,10 @@
 
 <h3>3. Enjoy the Simplicity:</h3>
 <p>Experience the convenience of a straightforward and efficient calculator tool.</p>
+
+<h2>Technologies Used</h2>
+<ul>
+<li><strong>HTML:</strong> Provides the structure of the calculator interface.</li>
+<li><strong>CSS:</strong> Styles the calculator for a visually appealing and user-friendly experience.</li>
+<li><strong>JavaScript:</strong> Enables the calculator's dynamic functionality.</li>
+</ul>
